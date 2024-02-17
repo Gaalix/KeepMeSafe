@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">KeepMeSafe</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="AppName" translatable="false">KeepMeSafe</string>
+    <string name="Map">View map</string>
+    <string name="Danger">Report danger</string>
+    <string name="Info">About app</string>
+    <string name="location_desc">Danger will be reported at your current location</string>
+    <string name="describe_input">Describe the danger</string>
+    <string name="submit_btn">Submit</string>
+    <string name="notification_title">New danger was added</string>
+    <string name="channel_name" translatable="false">report</string>
+    <string name="channel_description" translatable="false">Report the danger</string>
+    <string name="guidelines">1. Long press a danger to delete it.\n2. Tap the danger to see it on the map.\n3. Press edit button to edit item.</string>
+    <string name="aboutText"><b>App Name:</b> KeepMeSafe\n<b>Version:</b> 1.0.0\n<b>Developer:</b> Gaalix</string>
+    <string name="settings">Settings</string>
+    <string name="darkmode">Dark mode</string>
+    <string name="notifications">Disable notifications</string>
+    <string name="appdesc"><b>Description:</b> This app is designed to help users report and avoid dangerous situations. It allows users to report danger at their current location and view reported dangers on a map.</string>
+</resources>

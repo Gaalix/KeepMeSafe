@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Map">Ogled mape</string>
+    <string name="Danger">Prijavite nevarnost</string>
+    <string name="Info">O aplikaciji</string>
+    <string name="location_desc">Nevarnost bo prijavljena na vaši trenutni lokaciji</string>
+    <string name="describe_input">Opišite nevarnost</string>
+    <string name="submit_btn">Prijavite</string>
+    <string name="notification_title">Nova nevarnost je bila dodana</string>
+    <string name="guidelines">1. Dolgo pridržite nevarnost da jo izbrišete.\n2. Pritisnite na nevarnost da jo vidite na mapi.\n3. Pritisni na gumb za ureanje če zeliš urejati nevarnost.</string>
+    <string name="aboutText"><b>Ime aplikacije:</b> KeepMeSafe\n<b>Verzija:</b>: 1.0.0\n<b>Razvijalec:</b> Gaalix</string>
+    <string name="settings">Nastavitve</string>
+    <string name="darkmode">Temni način</string>
+    <string name="notifications">Onemogoči potisna sporočila</string>
+    <string name="appdesc"><b>Description:</b> Ta aplikacija omogoča da uporabniki prijavijo in se izognejo nevarnostim. Uporabniki lahko prijavijo nevarnosti in jih vidijo na mapi.</string>
+</resources>
